@@ -1712,7 +1712,7 @@ Skip to content</a>
 <div class="elementor-element elementor-element-f343400 e-con-full e-flex e-con e-child" data-id="f343400" data-element_type="container">
 <div class="elementor-element elementor-element-5e370e0 elementor-invisible elementor-widget elementor-widget-heading" data-id="5e370e0" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:600}" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h1 class="elementor-heading-title elementor-size-default">Kavya Fashion fashion bole to Kavyaaaaaa {RD Brand}</h1> </div>
+<h1 class="elementor-heading-title elementor-size-default">Kavya Fashion fashion bole to Kavya</h1> </div>
 </div>
 <div class="elementor-element elementor-element-1f905f6 elementor-invisible elementor-widget elementor-widget-heading" data-id="1f905f6" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:700}" data-widget_type="heading.default">
 <div class="elementor-widget-container">
